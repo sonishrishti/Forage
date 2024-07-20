@@ -23,7 +23,7 @@ The 2nd task involved creating a dashboard for the call centre manager to help h
 5.	Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 Here’s the basic dashboard I created as an absolute beginner – 
  
-![Task 2 Dashboard](path/to/your/image1.png)
+![Task 2 Dashboard](2_1.png)
 
 
 Because this was the first time I was using this software, there was a lot for me to explore and this task did the work. This task helped me understand the power of different visualization tools and their capabilities.
