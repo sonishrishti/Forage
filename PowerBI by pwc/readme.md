@@ -26,22 +26,27 @@ This virtual experience was very fruitful, as it helped me begin my data visuali
 Here’s the basic dashboard I created as an absolute beginner – 
  
 ![Task 2 Dashboard](2_1.png)
+Fig 1. Task 2_1
 
 Because this was the first time I was using this software, there was a lot for me to explore and this task did the work. This task helped me understand the power of different visualization tools and their capabilities.
 
 **Task 3** was to create a dashboard for the Retention Manager of PhoneNow. This basically involved using tools like bar charts, pie charts etc. to understand the churn rate at the company and also the reasons why the churn occurs or customers leave the company. I came up with the following two pages of the dashboard for the problem statement.
  
 ![Task 3 Dashboard 1](3_1.png)
+Fig 2. Task 3_1
 
 ![Task 3 Dashboard 2](3_2.png)
+Fig 3. Task 3_2
 
 **The 4th task** dealt with HR data to understand diversity, particularly focusing on gender-related KPIs. 
  
 ![Task 4 Dashboard 1](4_1.png)
+Fig 4. Task 4_1
 
 ![Task 4 Dashboard 2](4_2.png)
+Fig 5. Task 4_2
 
 ![Task 4 Dashboard 3](4_3.png)
-
+Fig 6. Task 4_3
 
 
