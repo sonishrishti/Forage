@@ -11,7 +11,7 @@ Each folder in this repository represents a different virtual experience I've co
 
 ### Completed Experiences
 
-- **[PwC's PowerBI Virtual Internship]**(PowerBI by pwc/readme.md): This experience introduced me to PowerBI and data visualization. It consisted of 4 tasks, including creating dashboards for different roles within a hypothetical call center company, PhoneNow.
+- **[PwC's PowerBI Virtual Internship](PowerBI%20by%20pwc/README.md)**: This experience introduced me to PowerBI and data visualization. It consisted of 4 tasks, including creating dashboards for different roles within a hypothetical call center company, PhoneNow.
 
 ## Connect with Me
 
