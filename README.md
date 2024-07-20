@@ -11,11 +11,11 @@ Each folder in this repository represents a different virtual experience I've co
 
 ### Completed Experiences
 
-- **[PwC's PowerBI Virtual Internship](./PwC-PowerBI-Internship/)**: This experience introduced me to PowerBI and data visualization. It consisted of 4 tasks, including creating dashboards for different roles within a hypothetical call center company, PhoneNow.
+- **[PwC's PowerBI Virtual Internship](./PowerBI by pwc/)**: This experience introduced me to PowerBI and data visualization. It consisted of 4 tasks, including creating dashboards for different roles within a hypothetical call center company, PhoneNow.
 
 ## Connect with Me
 
-Feel free to explore the folders and check out the detailed README files within each one. If you have any questions or would like to connect, you can reach me at shrishti.working@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/shrishti-soni/ .
+Feel free to explore the folders and check out the detailed README files within each one. If you have any questions or would like to connect, you can reach me at shrishti.working@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shrishti-soni/).
 
 Thank you for visiting my Forage Virtual Experiences repository!
 
